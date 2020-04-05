@@ -80,7 +80,7 @@
 	box-shadow: none;
 }
 h5 {
-	font-family: mbold !important;
+	font-family: msemibold !important;
 	color : #1d1c1c !important;
 	font-size: 20px !important;
 }
@@ -105,7 +105,7 @@ h5 {
 	padding-right : 5px !important;
 }
 .productsitem a {
-	font-family : mbold !important;
+	font-family : msemibold !important;
 	color : #1d1c1c !important;
 	font-size : 10px !important;	
 }
@@ -135,7 +135,7 @@ h5 {
 	font-size: 19px !important;
 }
 .contactli {
-	font-family: mbold !important;
+	font-family: msemibold !important;
 	font-size: 10px !important;
 	color : white;
 	list-style-type: none;
@@ -167,7 +167,7 @@ h5 {
     border-radius: 0 !important;
 }
 .thumb-content h4 {
-	font-family : mbold !important;
+	font-family : msemibold !important;
 	color : #514444 !important;
 	font-size : 13px !important;
 	padding-bottom : 40px;
