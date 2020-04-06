@@ -282,6 +282,9 @@ h5 {
 	color : #3c5a99 !important;
 	font-size: 40px;
 }
+.safari {
+  background-attachment: scroll;
+}
 @media (max-width: 575.98px) { 
 	.contactus , .services, .aboutus, .products, .clients {
 		padding: 30px 30px !important;
