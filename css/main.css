@@ -286,6 +286,19 @@ h5 {
   background-attachment: scroll;
 }
 @media (max-width: 575.98px) { 
+	.mainImg {
+		height: 360px !important;
+		padding: 0 !important;
+	}
+	.mainThumb {
+		height: 300px !important;
+	}
+	.imgBox {
+		height: 300px !important;
+	}
+	.imgBox img {
+		bottom: 50% !important;
+	}
 	.contactus , .services, .aboutus, .products, .clients {
 		padding: 30px 30px !important;
 	}
