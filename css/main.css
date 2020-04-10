@@ -98,7 +98,7 @@ h5 {
 	font-size: 15px;
 }
 .products {
-	padding: 30px 180px !important;
+	padding: 30px 150px !important;
 	overflow-x: hidden;
 }
 .productsitem {
@@ -293,10 +293,20 @@ h5 {
 	.mainThumb {
 		height: 300px !important;
 	}
-	.imgBox {
+	.mainImg3 {
+		height: 360px !important;
+		padding: 0 !important;
+	}
+	.mainThumb3 {
 		height: 300px !important;
 	}
-	.imgBox img {
+	.imgBox3 {
+		height: 150px !important;
+	}
+	.imgBox{
+		height: 300px !important;
+	}
+	.imgBox img, .imgBox3 img {
 		bottom: 50% !important;
 	}
 	.contactus , .services, .aboutus, .products, .clients {
